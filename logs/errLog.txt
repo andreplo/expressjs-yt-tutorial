@@ -1,0 +1,3 @@
+20240315	14:28:39	24952daa-3e9d-4cba-877b-8f3caa56b056	Error: Not allowed by CORS
+20240315	14:49:07	e039ad87-d419-47bd-a7b2-e5b23e787dcf	ReferenceError: __dirname is not defined
+20240315	14:49:58	df1e2465-427d-4bba-8128-70cb7e4aff88	ReferenceError: __dirname is not defined
